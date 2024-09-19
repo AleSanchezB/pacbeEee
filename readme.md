@@ -1,9 +1,9 @@
 # 🐑 PacbeEee
 ¡Bienvenido a PacbeEee! Este es un juego inspirado en el clásico Pacman, pero en lugar de controlar a Pacman, guiarás a una oveja a través de laberintos, evitando a los lobos mientras recoges deliciosos tréboles para ganar puntos. ¡Diviértete esquivando y corre por tu vida!
----
+
 ## 📜 Descripción del Juego
 En PacbeEee, tu objetivo es guiar a la oveja a través de un laberinto, recogiendo todos los tréboles antes de que los lobos te atrapen. Cada trébol que recojas te dará puntos, y si logras recolectarlos todos sin ser atrapado, ¡ganas!
----
+
 ### Características:
 - Personaje principal: Oveja 🐑
 - Enemigos: Lobos 🐺
